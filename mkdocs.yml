@@ -1,0 +1,8 @@
+site_name: "super-demo-26"
+site_description: "demo-app"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
